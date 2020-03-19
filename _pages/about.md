@@ -4,10 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This blog is an attempt at dwelling deep into the FastAI library and explain some of its inner workings.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Follow the discussion [here](https://forums.fast.ai/t/source-code-mid-level-api/65755/101)
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+You're welcome to send PRs to add your own blogs to this website!
