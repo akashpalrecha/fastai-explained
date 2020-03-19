@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: FastAI Explained
-description: An attempt at dwelling deep into the FastAI library and explain some of its inner workings.
+title: "FastAI Explained"
+description: "An attempt at dwelling deep into the FastAI library and explain some of its inner workings."
 github_username: akashpalrecha
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "fastai-explained"
