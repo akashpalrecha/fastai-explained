@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "This blog is an attempt at dwelling deep into the FastAI library and explain some of its inner workings. . Follow the discussion here . You’re welcome to send PRs to add your own blogs to this website! .",
           "url": "https://akashpalrecha.me/fastai-explained/about/",
           "relUrl": "/about/",
           "date": ""
